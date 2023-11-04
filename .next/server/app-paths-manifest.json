@@ -1,0 +1,9 @@
+{
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/login/page": "app/login/page.js",
+  "/posts/[slug]/page": "app/posts/[slug]/page.js",
+  "/api/categories/route": "app/api/categories/route.js",
+  "/api/posts/route": "app/api/posts/route.js"
+}
